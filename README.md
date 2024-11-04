@@ -1,4 +1,4 @@
-# CodeCrank
+# CodeSoft
 
 > API is still under early stages of development, so feel free to contribute in the project.
 
